@@ -1,0 +1,26 @@
+{
+  "name": "hide",
+  "version": "0.0.0",
+  "description": "Hide a DOM element",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "dependencies": {
+    "style-dom": "*",
+    "select-dom": "*"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "dom",
+    "hide"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/hide.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
