@@ -1,6 +1,6 @@
 ## hide
 
-Hide a DOM element
+Hide a DOM element by applying a absolute position
 
 ## Install
 
